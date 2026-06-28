@@ -1,6 +1,5 @@
 # What is Next.js & Why Use It? (Next.js Architecture & Core Concepts)
 
-**Channel:** Piyush Garg  
 **Topic:** Introduction to Next.js, the problems with React, and how Next.js solves them.
 
 ---
@@ -51,4 +50,4 @@ As you dive deeper into Next.js, these are the core features and concepts that m
 * **Client-Side Rendering (CSR)**: Standard React rendering.
 * **Hydration**: The process of making static HTML interactive by attaching React event listeners on the client side.
 
-> **Note:** Next.js was created and is actively maintained by **Vercel** (`vercel.com`).
+> **Note:** Next.js was created and is actively maintained by **Vercel** (`vercel.com`). 
